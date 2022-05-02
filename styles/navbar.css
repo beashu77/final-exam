@@ -1,0 +1,9 @@
+#search_input{
+    width:60%;
+    margin: 10px auto;
+    border: 1px solid teal;
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,13 @@
+.news{
+    display: flex; 
+    height: 250px;
+    border: 1px solid black;
+}
+#innDiv{
+    width: 30%;
+    height: 200px;
+}
+#img{
+    width: 250px;
+    height: 300px;
+}
